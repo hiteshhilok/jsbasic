@@ -6,6 +6,6 @@
 </head>
 
 <body>
-<h1>We are learing git</h1>
+<h1>We are learing git and i am in master</h1>
 </body>
 </html>
